@@ -1,17 +1,31 @@
 <h2>Create a .env file for storing sensitive information:</h2>
 <br>
+
+
 ```
+
 EMAIL_USER=your-email@gmail.com
 EMAIL_PASS=your-email-password // use app password of your gmail
 PORT
+
 ```
+
+
+
 <br>
 
 <h2> Api Endpoint</h2>
 <br>
+
+
+
 ```
+
 /calendar/send-invite
 ```
+
+
+
 <br>
 
 
